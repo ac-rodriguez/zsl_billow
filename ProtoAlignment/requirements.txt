@@ -1,0 +1,9 @@
+pytorch=1.9
+scipy
+pandas
+tqdm
+h5py
+dotmap
+torchmetrics
+
+webdataset

@@ -53,7 +53,7 @@ Feature extraction from iNaturalist datasets can be done as follows:
 
 PATH_root expects the following structure and uses webdatasets to avoid extracting the tar.gz files. Data can be downloaded directly from [https://github.com/visipedia/inat_comp](https://github.com/visipedia/inat_comp).
 
-Split classes created with `inaturalist_splits.ipynb` can be downloaded [here](https://share.phys.ethz.ch/~pf/andresrodata/zsl_billow/):
+Split classes created with `inaturalist_splits.ipynb` can be downloaded [here](https://drive.google.com/drive/folders/13GYqlIHENFMG0cX1P7PWzUJp-5LvkDAb?usp=share_link):
 
 ```
 iNaturalist

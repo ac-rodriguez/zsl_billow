@@ -23,7 +23,7 @@ We introduce Bird Illustrations of the World dataset (**Billow**) as a side-info
 
 ## 2. Encoded datasets
 
-Download billow_codes and other types of side information from [here](https://share.phys.ethz.ch/~pf/andresrodata/zsl_billow/).
+Download billow_codes and other types of side information from [here](https://drive.google.com/drive/folders/13GYqlIHENFMG0cX1P7PWzUJp-5LvkDAb?usp=share_link).
 CUB200 can be downloaded [here](http://datasets.d2.mpi-inf.mpg.de/xian/xlsa17.zip).
 
 ### 2.1 Billow codes for CUB200-2011

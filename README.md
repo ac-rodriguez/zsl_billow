@@ -1,7 +1,8 @@
 
 # Recognition of Unseen Bird Species by Learning from Field Guides (WACV 2024)
 
-Official impementation of https://arxiv.org/abs/2206.01466v1
+Official impementation [arxiv](https://arxiv.org/abs/2206.01466v2)
+
 
 We exploit field guides to learn bird species recognition, in particular zero-shot recognition of unseen species.
 
